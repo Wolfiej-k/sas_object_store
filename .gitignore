@@ -1,4 +1,6 @@
+.venv/
 build/
 build-asan/
+benchmarks/__pycache__/
 *.so
 *.csv
