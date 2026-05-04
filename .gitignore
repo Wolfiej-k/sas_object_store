@@ -1,6 +1,18 @@
-.venv/
+# CMake 
 build/
 build-asan/
+
+# Python
+.venv/
 benchmarks/__pycache__/
-*.so
-*.csv
+
+# LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
