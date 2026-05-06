@@ -1,6 +1,6 @@
 # CMake 
 build/
-build-asan/
+build_san/
 
 # Python
 .venv/
