@@ -6,6 +6,9 @@ build-asan/
 .venv/
 benchmarks/__pycache__/
 
+# YCSB
+external/ycsb/
+
 # LaTeX
 *.aux
 *.fdb_latexmk
