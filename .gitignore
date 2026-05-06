@@ -9,6 +9,9 @@ benchmarks/__pycache__/
 # YCSB
 external/ycsb/
 
+# Lightning
+external/lightning/
+
 # LaTeX
 *.aux
 *.fdb_latexmk
