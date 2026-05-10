@@ -1,16 +1,16 @@
 # CMake 
-build/
-build_san/
+src/build/
+src/build_san/
 
 # Python
 .venv/
-benchmarks/__pycache__/
+src/benchmarks/__pycache__/
 
 # YCSB
-external/ycsb/
+src/external/ycsb/
 
 # Lightning
-external/lightning/
+src/external/lightning/
 
 # LaTeX
 *.aux
